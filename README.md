@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Teddy-uyaRocka;
+- 👋 Hi, I’m Teddy Phetla;
 - 👀 I’m interested in Programming and Web Development;
-- 🌱 I’m currently learning Bsc IT and I am a Junior Integration Developer;
+- 🌱 A Graduate in Bsc IT and Integration/Migration Developer;
 - 💞️ I’m looking to collaborate on any projects that will contribute to my growth and knowledge;
 - 📫 How to reach me = 'teddytumelo49@gmail.com;
 
